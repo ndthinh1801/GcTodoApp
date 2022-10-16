@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GCTodoApp</string>
+    <string name="hint_enter_message">Enter message</string>
+    <string name="button_analyse">Analyse</string>
+</resources>
