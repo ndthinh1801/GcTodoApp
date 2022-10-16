@@ -1,6 +1,6 @@
 # To-do App for Interview
 
-Time spent: 6 hours spent in total
+Time spent: 4 hours spent in total
 # User Stories
 - Develop an application has a feature that takes a user comment as input and
 returns a JSON string containing information about it content:
