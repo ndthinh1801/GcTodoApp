@@ -51,4 +51,10 @@ Return (string):
 
 ● Push your work on Github and send us the link.
 
+# Project struture:
+
+- Create a MessageLibrary that handles parsing message and return to JSON format
+- The MessageLibrary handles common logic like (split mentioned user, split URL, get URL title....)
+- Applied MVVM Architecture (actually only View and ViewModel)
+- Additional Libraries: Hilt, Jsoup, Gson
 
